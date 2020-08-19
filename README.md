@@ -4,4 +4,4 @@ Methods and MAG description contained in [Streptococcus species enriched in the 
 
 Raw reads and genome assemblies available from NCBI under BioProject PRJNA656387
 
-PROKKA annotated isolate genomes (in GenBank format) can be downloaded [here](https://cloudstor)
+PROKKA annotated isolate genomes (in GenBank format) can be downloaded [here](https://cloudstor.aarnet.edu.au/plus/s/Oqfhx1HaM3zkN0h)
